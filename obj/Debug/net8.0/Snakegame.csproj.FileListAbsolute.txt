@@ -1,0 +1,14 @@
+C:\Users\Asus\source\repos\Snakegame\Snakegame\bin\Debug\net8.0\Snakegame.exe
+C:\Users\Asus\source\repos\Snakegame\Snakegame\bin\Debug\net8.0\Snakegame.deps.json
+C:\Users\Asus\source\repos\Snakegame\Snakegame\bin\Debug\net8.0\Snakegame.runtimeconfig.json
+C:\Users\Asus\source\repos\Snakegame\Snakegame\bin\Debug\net8.0\Snakegame.dll
+C:\Users\Asus\source\repos\Snakegame\Snakegame\bin\Debug\net8.0\Snakegame.pdb
+C:\Users\Asus\source\repos\Snakegame\Snakegame\obj\Debug\net8.0\Snakegame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\Snakegame\Snakegame\obj\Debug\net8.0\Snakegame.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Snakegame\Snakegame\obj\Debug\net8.0\Snakegame.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Snakegame\Snakegame\obj\Debug\net8.0\Snakegame.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Snakegame\Snakegame\obj\Debug\net8.0\Snakegame.dll
+C:\Users\Asus\source\repos\Snakegame\Snakegame\obj\Debug\net8.0\refint\Snakegame.dll
+C:\Users\Asus\source\repos\Snakegame\Snakegame\obj\Debug\net8.0\Snakegame.pdb
+C:\Users\Asus\source\repos\Snakegame\Snakegame\obj\Debug\net8.0\Snakegame.genruntimeconfig.cache
+C:\Users\Asus\source\repos\Snakegame\Snakegame\obj\Debug\net8.0\ref\Snakegame.dll

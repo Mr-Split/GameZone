@@ -13,6 +13,8 @@ Welcome to the C# Gaming Hub! Choose your adventure:
 4 -> Exit
 
 
+
+
 1. Retro Snake 🐍
 Objective: Eat as many apples as you can without hitting the walls!
 
@@ -20,6 +22,8 @@ Gameplay Mechanics:
 
 Use the arrow keys to navigate your snake.
 Each apple is randomly generated within the playing field.
+
+
 
 
 2. Rock Paper Scissors ✂️📄🪨
@@ -34,6 +38,7 @@ Rock crushes Scissors 🪨✂️.
 Scissors cut Paper ✂️📄.
 Paper covers Rock 📄🪨.
 A message declares whether you win, lose, or it's a draw.
+
 
 
 
